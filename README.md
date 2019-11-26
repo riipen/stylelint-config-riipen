@@ -1,6 +1,6 @@
 # stylelint-config-riipen
 
-[![NPM version](http://img.shields.io/npm/v/stylelint-config-riipen.svg)](https://www.npmjs.org/package/stylelint-config-riipen) [![Build Status](https://travis-ci.com/stylelint/stylelint-config-riipen.svg?branch=master)](https://travis-ci.com/stylelint/stylelint-config-riipen) [![Build status](https://ci.appveyor.com/api/projects/status/96po99qof05hv285/branch/master?svg=true)](https://ci.appveyor.com/project/stylelint/stylelint-config-riipen/branch/master)
+[![NPM version](http://img.shields.io/npm/v/stylelint-config-riipen.svg)](https://www.npmjs.org/package/stylelint-config-riipen)
 
 > Riipen's standard shareable config for stylelint.
 
