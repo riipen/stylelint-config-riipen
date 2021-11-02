@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-riipen",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Riipen's Stylelint config.",
   "main": "index.js",
   "files": [
@@ -28,14 +28,14 @@
     "prepublishOnly": "safe-publish-latest"
   },
   "dependencies": {
-    "stylelint-config-standard": "^19.0.0",
-    "stylelint-order": "^3.1.1"
+    "stylelint-config-standard": "^23.0.0",
+    "stylelint-order": "^5.0.0"
   },
   "devDependencies": {
     "safe-publish-latest": "^1.1.4",
-    "stylelint": "^12.0.0"
+    "stylelint": "^14.0.0"
   },
   "peerDependencies": {
-    "stylelint": ">=10.1.0"
+    "stylelint": ">=14.0.0"
   }
 }
